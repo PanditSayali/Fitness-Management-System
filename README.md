@@ -17,7 +17,7 @@ Create a MySQL database named fitness_management.
 Update the database configuration in src/main/resources/application.properties with your MySQL username and password
 ### Access the application:
 Open a web browser and navigate to http://localhost:8080 to access the application.
-# Usage
+### Usage
 -Visit /homePage to access the homepage.
 -Navigate to /Loginpage for member login.
 -Register new members by visiting /Registration.
