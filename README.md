@@ -18,9 +18,10 @@ Update the database configuration in src/main/resources/application.properties w
 ### Access the application:
 Open a web browser and navigate to http://localhost:8080 to access the application.
 ### Usage
--Visit /homePage to access the homepage.
--Navigate to /Loginpage for member login.
--Register new members by visiting /Registration.
--Update member details at /Update/{emailID} (API endpoint).
--Admin login is available at /admin.
--API documentation: API Documentation
+
+- Visit /homePage to access the homepage.
+- Navigate to /Loginpage for member login.
+- Register new members by visiting /Registration.
+- Update member details at /Update/{emailID} (API endpoint).
+- Admin login is available at /admin.
+- API documentation: API Documentation
