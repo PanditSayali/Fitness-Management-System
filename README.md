@@ -1,4 +1,3 @@
-# SQL- Learners Mockup Data
 
 # Fitness Management System
 The Fitness Management System is a Java Spring Boot application designed to manage members and trainers of a gym. It provides functionalities for registration, login, updating member information, and administrative access.
