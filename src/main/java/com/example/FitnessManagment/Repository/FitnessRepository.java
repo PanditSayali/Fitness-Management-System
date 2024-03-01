@@ -4,6 +4,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.example.FitnessManagment.Model.Fitness;
 
-public interface FitnessloginReository extends JpaRepository<Fitness,String>{
+public interface FitnessRepository extends JpaRepository<Fitness,String>{
+
+	Fitness findByEmailID(String emailID);
 
 }
